@@ -1,3 +1,5 @@
+origin: https://github.com/Teradata/dlispy
+
 # Introduction
 Parser for DLIS-files (Digital Log Interchange Standard), a binary format for Well Log Data, described by [RP66 Version 1](http://w3.energistics.org/rp66/v1/Toc/main.html)
 
